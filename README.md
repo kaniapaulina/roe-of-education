@@ -53,8 +53,8 @@ Projekt EDA badający zależności między kierunkiem studiów, typem uczelni i 
 ## Uruchomienie
 
 ```bash
-git clone https://github.com/[twój-nick]/[nazwa-repo].git
-cd [nazwa-repo]
+git clone https://github.com/kaniapaulina/roe-of-education.git
+cd roe-of-education
 pip install pandas numpy matplotlib seaborn
 jupyter notebook eda-project.ipynb
 ```
